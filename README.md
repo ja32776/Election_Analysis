@@ -57,9 +57,9 @@ The audit of the election shows that:
   - Arapahoe
   
  - The county results were
-   - Jefferson received 10.5% of the votes and 38,855 number of votes.
-   - Denver received 82.8% of the votes and 306,055 number of votes.
-   - Arapahoe received 6.7% of the votes and 24,801 number of votes.
+   - Jefferson received 10.5% of the percentage of votes and 38,855 number of voters.
+   - Denver received 82.8% of the percentage of votes and 306,055 number of voters.
+   - Arapahoe received 6.7% of the percentage of votes and 24,801 number of voters.
   
   - The county with the highest turnout was:
     - Denver, who received 82.8% of the votes and 306,055 number of votes
